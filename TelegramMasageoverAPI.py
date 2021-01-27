@@ -1,10 +1,14 @@
 from telethon import TelegramClient, sync, events 
-
+# your api id 
 api_id = 'XXXXX'
+# your api hash 
 api_hash = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+# your phone number 
 myphone = '+XXXXXXXXX'
-massge = "Hell word " 
+# the number of resever you can just use account username 
 resevers = '+ZZZZZZZZZ'
+massge = "Hell word " 
+
 
 def SendTelgramMasage(api_id, api_hash, myphone, resever, Masge,):
     client = TelegramClient('session', api_id, api_hash) 
