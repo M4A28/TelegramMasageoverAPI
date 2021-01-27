@@ -1,8 +1,7 @@
 # TelegramMasageoverAPI
-this is a simele program to send masgee to your family, fraind and any one use telegram 
+this is a simple program to send a massage to your family, friends and anyone use telegram 
 * 1- you need to install telethon 
- *  in Unix use : pip3 install telethon 
-  * in windos use: pip install telethon
-* 2- you neet to get api id  and api hash for your [account] 
-  (https://my.telegram.org/auth)
+ ~ in Unix use: pip3 install telethon 
+ ~ in windows use: pip install telethon
+* 2- you need to get API id  and API hash for your [account](https://my.telegram.org/auth)
   
